@@ -4,8 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-     "start": "Vite",
-     "dev": "npx tailwindcss -i ./main.css -o ./style.css --watch"
+    "start": "Vite",
+    "dev": "npx tailwindcss -i ./main.css -o ./style.css --watch"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,6 @@
     "url": "https://github.com/mukesh-earth-652/test-branch/issues"
   },
   "homepage": "https://github.com/mukesh-earth-652/test-branch#readme",
-  "description": "",
   "devDependencies": {
     "autoprefixer": "^10.4.20",
     "postcss": "^8.5.1",
@@ -26,5 +25,6 @@
   },
   "dependencies": {
     "tailwindcss": "^3.4.17"
-  }
+  },
+  "description": ""
 }
